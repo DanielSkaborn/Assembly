@@ -1,0 +1,9 @@
+[submodule "Subparts/BoardA"]
+	path = Subparts/BoardA
+	url = git@github.com:DanielSkaborn/BoardA.git
+[submodule "Subparts/BoardB"]
+	path = Subparts/BoardB
+	url = git@github.com:DanielSkaborn/BoardB.git
+[submodule "Subparts/MechpardA"]
+	path = Subparts/MechpardA
+	url = git@github.com:DanielSkaborn/MechpardA.git
