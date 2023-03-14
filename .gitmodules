@@ -7,3 +7,5 @@
 [submodule "Subparts/MechpardA"]
 	path = Subparts/MechpardA
 	url = git@github.com:DanielSkaborn/MechpardA.git
+	ref = sadf
+	
